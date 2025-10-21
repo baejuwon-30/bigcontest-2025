@@ -1,0 +1,12 @@
+# 핵심 의존성
+pandas
+streamlit
+google-generativeai
+google-genai
+langchain-openai
+langchain-community
+langchain_huggingface
+pillow
+pymilvus
+langchain-core
+asyncio
